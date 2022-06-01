@@ -1,0 +1,2 @@
+# eurica
+Bangkit Capstone Project
